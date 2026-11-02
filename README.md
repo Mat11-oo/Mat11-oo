@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://mat11-oo.github.io/">🌐 个人网站  ↗</a> ·
   <a href="#projects">🧩 全部项目</a> ·
-  <a href="#skills">技能与标签</a> ·
+  <a href="#skills">📌技能与标签</a> ·
   <a href="#writing">✍️ 我的文章</a>
 </p>
 
