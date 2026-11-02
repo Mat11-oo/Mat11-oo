@@ -1,15 +1,16 @@
 <p align="center">
   <a href="https://mat11-oo.github.io/">
-    <img src="./assets/header.svg" width="100%" alt="Mat11-oo：把好奇写成文章，做成作品。AI 产品探索、Agent Skills、交互原型与中文内容创作。点击进入个人网站。" />
+    <img src="./assets/header.svg" width="100%" alt="Matthew：把好奇写成文章，做成作品。AI 产品探索、Agent Skills、交互原型与中文内容创作。点击进入个人网站。" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://mat11-oo.github.io/">个人网站 ↗</a> ·
-  <a href="#projects">全部项目</a> ·
+  <a href="https://mat11-oo.github.io/">🌐 个人网站  ↗</a> ·
+  <a href="#projects">🧩 全部项目</a> ·
   <a href="#skills">技能与标签</a> ·
-  <a href="#writing">文章与文档</a>
+  <a href="#writing">✍️ 我的文章</a>
 </p>
+
 
 ## 你好，我是 Mat11-oo 👋
 
@@ -17,7 +18,8 @@
 
 这里放我的项目和文章：既记录做出了什么，也记录实现过程、判断依据，以及还需要验证的部分。
 
-**我的标签**　`AI 产品探索`　`Agent Skills`　`交互原型`　`中文内容创作`　`公开构建`
+**我的标签**　`AI 产品探索`　`Agent Skills`　`交互原型`　`Agent 工作流
+`　`公开构建`
 
 <a name="projects"></a>
 
