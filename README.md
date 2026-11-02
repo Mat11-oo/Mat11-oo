@@ -100,7 +100,7 @@
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-[打开网站 ↗](https://mat11-oo.github.io/) · [查看源码](https://github.com/Mat11-oo/mat11-oo.github.io)
+[打开网站 ↗](https://mat11-oo.github.io/) 
 
 <details>
 <summary><strong>查看完整仓库目录</strong></summary>
