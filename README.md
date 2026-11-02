@@ -157,6 +157,8 @@
 ### 文章
 
 - [当 ChatGPT 和 Codex 要在一个钱包里花钱了：AI 时代的精细化过冬](https://mp.weixin.qq.com/s/R56d-aIISFxM5_NYPZd66w) · AI 工具与使用成本
+- [公众号文章 02（标题待补）](https://mp.weixin.qq.com/s/iU-H9b4l1zz94Wy8IZ-3CA)
+- [公众号文章 03（标题待补）](https://mp.weixin.qq.com/s/Xy8u5FnnJ-aeGzPuL8l0Iw)
 
 [查看文章索引 ↗](./ARTICLES.md)
 
