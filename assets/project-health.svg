@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" role="img" aria-labelledby="title desc">
+<title id="title">轻养健康 · M02</title><desc id="desc">健康档案 / 饮水 / 体重 / 个人看板。Next.js · NestJS · MySQL。本地联调 · 源码交付。</desc>
+<rect x="1" y="1" width="638" height="328" rx="24" fill="#e9ccff" stroke="#101010" stroke-width="2"/>
+<g fill="#101010" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif"><text x="26" y="33" font-size="10" font-weight="700" letter-spacing="1.4">01 / FULL-STACK PROJECT</text>
+<text x="25" y="66" font-size="17" font-weight="700">轻养健康 · M02</text>
+<text x="22" y="140" font-size="65" font-family="Impact, Arial Black, Arial,sans-serif" font-weight="900" letter-spacing="-2">HEALTH</text>
+<text x="22" y="198" font-size="65" font-family="Impact, Arial Black, Arial,sans-serif" font-weight="900" letter-spacing="-2">RECORDS.</text>
+<text x="26" y="246" font-size="13">健康档案 / 饮水 / 体重 / 个人看板</text><text x="26" y="275" font-size="11">Next.js · NestJS · MySQL</text><text x="26" y="308" font-size="10" opacity=".8">本地联调 · 源码交付</text><text x="588" y="308" font-size="25">↗</text></g><rect x="428" y="92" width="162" height="130" rx="18" fill="#fff" stroke="#101010" stroke-width="2"/><path d="M450 192h117M450 109v83" stroke="#101010" fill="none"/><rect x="462" y="159" width="18" height="31" rx="4" fill="#55db9c"/><rect x="493" y="138" width="18" height="52" rx="4" fill="#4da2ff"/><rect x="524" y="117" width="18" height="73" rx="4" fill="#5c4ade"/></svg>

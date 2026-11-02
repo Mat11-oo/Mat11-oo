@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" role="img" aria-labelledby="title desc">
+<title id="title">波点音乐 · 声影单页</title><desc id="desc">粒子穿越 / 黑胶交互 / 曲目配色。JavaScript · Three.js · WebGL。桌面交互演示。</desc>
+<rect x="1" y="1" width="638" height="328" rx="24" fill="#111715" stroke="#101010" stroke-width="2"/>
+<g fill="#f5f5ef" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif"><text x="26" y="33" font-size="10" font-weight="700" letter-spacing="1.4">02 / INTERACTIVE EXPERIENCE</text>
+<text x="25" y="66" font-size="17" font-weight="700">波点音乐 · 声影单页</text>
+<text x="22" y="140" font-size="65" font-family="Impact, Arial Black, Arial,sans-serif" font-weight="900" letter-spacing="-2">SOUND IN</text>
+<text x="22" y="198" font-size="65" font-family="Impact, Arial Black, Arial,sans-serif" font-weight="900" letter-spacing="-2">MOTION.</text>
+<text x="26" y="246" font-size="13">粒子穿越 / 黑胶交互 / 曲目配色</text><text x="26" y="275" font-size="11">JavaScript · Three.js · WebGL</text><text x="26" y="308" font-size="10" opacity=".8">桌面交互演示</text><text x="588" y="308" font-size="25">↗</text></g><g transform="translate(516 155)"><circle r="80" fill="#050706" stroke="#55db9c" stroke-width="2"/><circle r="65" fill="none" stroke="#344b40"/><circle r="50" fill="none" stroke="#344b40"/><circle r="34" fill="#55db9c"/><circle r="7" fill="#101010"/></g><g fill="#55db9c"><circle cx="427" cy="84" r="4"/><circle cx="604" cy="204" r="3"/><circle cx="601" cy="67" r="5"/></g></svg>

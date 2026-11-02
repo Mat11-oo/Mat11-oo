@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Mat11-oo — 把好奇写成文章，做成作品</title><desc id="desc">AI 产品探索、Agent Skills、交互原型与中文内容创作。点击访问个人网站。</desc>
+<rect x="1" y="1" width="1198" height="368" rx="28" fill="#dceeff" stroke="#101010" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#101010">
+<text x="40" y="43" font-size="12" font-weight="700" letter-spacing="2">A PERSONAL SPACE FOR IDEAS &amp; THINGS</text>
+<rect x="970" y="22" width="190" height="34" rx="17" fill="#101010"/><text x="1065" y="44" text-anchor="middle" font-size="11" font-weight="700" fill="white" letter-spacing="1">BUILD / WRITE / EXPLORE</text>
+<text x="34" y="194" font-size="144" font-family="Impact, Arial Black, Arial, sans-serif" font-weight="900" letter-spacing="-7">MAT11—OO</text>
+<text x="43" y="253" font-size="29" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">把好奇，写成文章，做成作品。</text>
+<text x="44" y="300" font-size="15" font-family="PingFang SC, Microsoft YaHei, sans-serif">AI 产品探索 · Agent Skills · 交互原型 · 中文内容创作</text>
+<text x="44" y="343" font-size="11" letter-spacing="1.8">MAT11-OO.GITHUB.IO</text><text x="1128" y="341" font-size="25">↗</text>
+</g>
+<g transform="translate(995 112) rotate(11)"><rect width="140" height="112" rx="22" fill="#55db9c" stroke="#101010" stroke-width="2"/><text x="19" y="48" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="25">MAKE</text><text x="19" y="83" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="25">IT REAL.</text></g>
+<g transform="translate(906 259) rotate(-13)"><rect width="146" height="45" rx="22" fill="#e9ccff" stroke="#101010" stroke-width="2"/><text x="73" y="28" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700">STAY CURIOUS ✳</text></g>
+<path d="M1103 254l8 20 19-9-8 19 20 8-20 8 8 19-19-8-8 20-8-20-19 8 8-19-20-8 20-8-8-19 19 9z" fill="#ffd731" stroke="#101010" stroke-width="2"/>
+</svg>
