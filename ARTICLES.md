@@ -14,12 +14,12 @@
 | --- | --- |
 | [当 ChatGPT 和 Codex 要在一个钱包里花钱了：AI 时代的精细化过冬](https://mp.weixin.qq.com/s/R56d-aIISFxM5_NYPZd66w) | 微信公众号 |
 
-## 其他公众号文章
+## AI 行业观察
 
 | 文章 | 发布平台 |
 | --- | --- |
-| [公众号文章 02（标题待补）](https://mp.weixin.qq.com/s/iU-H9b4l1zz94Wy8IZ-3CA) | 微信公众号 |
-| [公众号文章 03（标题待补）](https://mp.weixin.qq.com/s/Xy8u5FnnJ-aeGzPuL8l0Iw) | 微信公众号 |
+| [AI 四巨头，突然开始讲武德了](https://mp.weixin.qq.com/s/iU-H9b4l1zz94Wy8IZ-3CA) | 微信公众号 |
+| [花 1000 亿买下“看门大爷”：OpenAI 的金主盯上了你家大门口](https://mp.weixin.qq.com/s/Xy8u5FnnJ-aeGzPuL8l0Iw) | 微信公众号 |
 
 ## 项目实践文档
 
