@@ -2,6 +2,12 @@
 
 [← 返回 GitHub 个人主页](./README.md)
 
+## 微信公众号
+
+公众号原始 ID：`gh_0a0e80b7d682`。用微信扫描下方二维码，进入公众号。
+
+<a href="./assets/wechat-account-qr.jpg"><img src="./assets/wechat-account-qr.jpg" width="160" alt="微信公众号二维码，原始 ID：gh_0a0e80b7d682" /></a>
+
 ## AI 工具与使用成本
 
 | 文章 | 发布平台 |

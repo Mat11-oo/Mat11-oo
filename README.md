@@ -135,6 +135,25 @@
 
 ## ✍️ 文章与知识记录
 
+<table>
+<tr>
+<td width="180" align="center">
+<a href="./assets/wechat-account-qr.jpg"><img src="./assets/wechat-account-qr.jpg" width="160" alt="微信公众号二维码，原始 ID：gh_0a0e80b7d682" /></a>
+</td>
+<td valign="top">
+
+### 在微信公众号读我的文章
+
+用微信扫描二维码，进入我的公众号。
+
+公众号原始 ID：`gh_0a0e80b7d682`
+
+[查看文章索引](./ARTICLES.md) · [打开完整二维码](./assets/wechat-account-qr.jpg)
+
+</td>
+</tr>
+</table>
+
 ### 文章
 
 - [当 ChatGPT 和 Codex 要在一个钱包里花钱了：AI 时代的精细化过冬](https://mp.weixin.qq.com/s/R56d-aIISFxM5_NYPZd66w) · AI 工具与使用成本
